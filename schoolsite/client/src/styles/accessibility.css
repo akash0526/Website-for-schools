@@ -1,0 +1,49 @@
+/* Contrast refinements verified with axe; keep these after the visual theme. */
+.handwritten,
+.program-number,
+.program-age,
+.program-link {
+  color: #c4d5b0;
+}
+.workspace-label,
+.sidebar-help p {
+  color: #a9be98;
+}
+.admin-sidebar nav a.active {
+  color: #375337;
+}
+.dashboard-welcome .btn {
+  color: #f2f5e9;
+}
+.avatar-initials,
+.topbar-avatar,
+.settings-tabs button.selected {
+  color: #526a3f;
+}
+.sidebar-user .avatar-initials {
+  color: #d0dfb8;
+}
+.field input::placeholder,
+.field textarea::placeholder {
+  color: #68745f;
+  opacity: 1;
+}
+.school-programs .program-card {
+  background: #f0f3e8;
+  border-color: #dce5d0;
+}
+.school-programs .program-card h3 {
+  color: var(--ink);
+}
+.school-programs .program-age,
+.school-programs .program-number,
+.school-programs .program-card p {
+  color: #5e7054;
+}
+.school-programs .program-link {
+  color: var(--forest);
+  border-color: #dce5d0;
+}
+.mission-signature {
+  color: #c4d5b0;
+}
